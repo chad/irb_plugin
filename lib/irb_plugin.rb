@@ -14,3 +14,5 @@ module IrbPlugin
     end.compact
   end
 end
+
+IrbPlugin.load_all_plugins
