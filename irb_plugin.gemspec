@@ -6,10 +6,10 @@ Gem::Specification.new do |s|
   s.name        = "irb_plugin"
   s.version     = IrbPlugin::VERSION
   s.authors     = ["Chad Fowler"]
-  s.email       = ["chad.fowler@livingsocial.com"]
+  s.email       = ["chad@chadfowler.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Trivial irb plugin loader}
+  s.description = %q{Trivial irb plugin loader}
 
   s.rubyforge_project = "irb_plugin"
 
